@@ -8,6 +8,10 @@ A classic Snake game implementation in Java using Swing.
 - **Game States**: Includes Menu, Playing, Pause, and Game Over screens.
 - **Smooth Controls**: Responsive keyboard controls for a seamless experience.
 
+## Screenshots
+![Menu Screen](menu.png)
+![Gameplay Screen](gameplay.png)
+
 ## Prerequisites
 - Java Development Kit (JDK) 11 or higher
 - Maven 3.6+
